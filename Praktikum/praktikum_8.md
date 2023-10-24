@@ -1,4 +1,4 @@
-# Praktikum 07: Relasi One-to-Many dan Many-to-Many
+# Praktikum 08: Relasi One-to-Many dan Many-to-Many
 
 ###### Nama: Muhammad Razzaaq Zulkahfi<br>NIM: 215150700111047<br>Kelas: Pemrograman Integratif-A
 
